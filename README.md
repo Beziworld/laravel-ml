@@ -50,7 +50,7 @@ php artisan vendor:publish --tag=ml-config   # optional
 ```
 
 Requirements: PHP 8.3+, Laravel 12 or 13, `ext-zlib`. The optional
-[Tensor extension](https://github.com/RubixML/Tensor) speeds up linear models and neural networks considerably.
+[Tensor extension](https://github.com/RubixML/Tensor-Ext) speeds up linear models and neural networks considerably.
 
 Everything works without configuration. Optional `.env` settings:
 

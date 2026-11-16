@@ -6,7 +6,7 @@
 
 Laravel-first machine learning in plain PHP. Everything [php-ml](https://github.com/jorgecasas/php-ml) offered
 (classification, regression, clustering, Apriori, cross validation, TF-IDF, preprocessing, metrics, persistence,
-neural networks), built on the maintained [Rubix ML](https://rubixml.com) 3 engine and wrapped in the things a Laravel
+neural networks), built on the maintained [Rubix ML](https://rubixml.org) 3 engine and wrapped in the things a Laravel
 application actually needs:
 
 - datasets straight from Eloquent (`fromQuery()` streams with `lazy()`), collections, arrays and CSV files
